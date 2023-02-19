@@ -133,14 +133,14 @@ body {
 }
 
 .hero__header {
-    width: 45.85%;
+    width: 43%;
     padding-top: 1.6rem;
     display: flex;
     flex-direction: column;
 }
 
 .hero__image {
-    width: 54.15%;
+    width: 57%;
     margin-right: .4rem;
 }
 
