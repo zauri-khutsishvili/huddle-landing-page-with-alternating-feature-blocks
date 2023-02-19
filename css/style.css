@@ -31,16 +31,6 @@ img {
     max-width: 100%;
 }
 
-.hero__logo,
-.card__image,
-.hero__image {
-    -webkit-user-drag: none;
-    user-select: none;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-}
-
 h1,
 h2,
 h3,
@@ -58,10 +48,6 @@ h1 {
 
 h2 {
     font-size: 3.2rem;
-}
-
-h3 {
-    font-size: 2.8rem;
 }
 
 p {
@@ -220,10 +206,12 @@ main {
 
 .card__title {
     margin-bottom: .43em;
+    font-size: 2.8rem;
 }
 
 .card__image {
-    width: 37.665%;
+    width: 100%;
+    max-width: 40.7rem;
 }
 
 .card:nth-child(2) {
@@ -236,9 +224,8 @@ main {
     margin-top: .2rem;
 }
 
-.card:nth-child(2) .card__image,
-.card:nth-child(3) .card__image {
-    width: 38.69%;
+.card:nth-child(2) .card__image {
+    max-width: 41.7rem;
 }
 
 .card:nth-child(3) {
@@ -248,6 +235,10 @@ main {
 
 .card:nth-child(3) .card__text {
     margin-top: .1rem;
+}
+
+.card:nth-child(3) .card__image {
+    max-width: 42.1rem;
 }
 
 .cta {
@@ -609,11 +600,6 @@ main {
         line-height: calc(30em / 18);
     }
 
-    h3 {
-        font-size: 2rem;
-        line-height: 1.5em;
-    }
-
     p {
         font-size: 1.4rem;
     }
@@ -677,6 +663,8 @@ main {
 
     .card__title {
         margin-bottom: .7em;
+        font-size: 2rem;
+        line-height: 1.5em;
     }
 
     .cta {
