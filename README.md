@@ -1,18 +1,17 @@
 # Frontend Mentor - Equalizer landing page solution
 
-This is a solution to the [Typemaster pre-launch landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9).
+This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100).
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page--QmPC2fVN8](https://www.frontendmentor.io/solutions/clipboard-landing-page--QmPC2fVN8)
-- Live Site URL: [https://zauri-khutsishvili.github.io/clipboard-landing-page/](https://zauri-khutsishvili.github.io/clipboard-landing-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-qCp4F3Trl-](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-qCp4F3Trl-)
+- Live Site URL: [https://zauri-khutsishvili.github.io/huddle-landing-page-with-alternating-feature-blocks/](https://zauri-khutsishvili.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - BEM
 
 ## Author
